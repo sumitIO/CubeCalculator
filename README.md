@@ -1,4 +1,4 @@
-# my-project
+# Cube Calculator
 
 ## Project setup
 ```
